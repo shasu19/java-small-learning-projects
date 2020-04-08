@@ -1,0 +1,18 @@
+
+
+
+
+	# Java Regex learning
+	//d Using for any digit compare
+	//s any space
+	//S not space
+	//D not digit
+	//w any character
+	[aeiou] any character match
+	[a-z] character within this range
+	[a-zA-Z0-9] any digit, alphabets
+	* zero or any match
+	^ starting with
+	$ ending with
+	. one or many occurence
+
